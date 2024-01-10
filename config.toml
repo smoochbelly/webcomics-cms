@@ -4,7 +4,9 @@ publishDir = "public"
 staticDir = "static"
 assetDir = "static"
 buildDrafts = false
-baseURL = "https://comic-cms.netlify.com"
+baseURL = ""
+# baseURL = "https://comic-cms.netlify.com"
+
 canonifyURLs = true
 title = "Tavern Wenches"
 sectionPagesMenu = "main"
